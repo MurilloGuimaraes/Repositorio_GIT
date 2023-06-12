@@ -43,8 +43,21 @@ body{
     background-repeat: no-repeat;    
 }
 
-
 .texto{
     text-align: center;
+}
+
+.texto_d{
     color: #fff;
+    width: 1200px;
+    height: 300px;
+}
+
+.imagem_1{
+
+    width: 100px;
+    height: 100px;
+    color: #fff;
+    background-color: rgb(197, 83, 8);
+    text-align: center;
 }
